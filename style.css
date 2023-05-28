@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.jumbotron{
+    padding-top: 2rem;
+    background-color: #d8d8d8;
+}
+
+#achievment{
+    background-color: #d8d8d8;
+}
+
+.card{
+    border:none;
+}
